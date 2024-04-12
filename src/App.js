@@ -9,7 +9,7 @@ function App() {
             <div class="title">Plan Basico</div>
             <div class="price">
                 <span class="currency">$</span>
-                <span class="number">25</span>
+                <span class="number">2500</span>
                 <span class="frequency">/mo</span>
             </div>
             <div class="features">
